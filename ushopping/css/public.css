@@ -1,0 +1,235 @@
+@charset "UTf-8";
+
+
+.inner {
+    width: 1190px;
+
+    margin: 0 auto;
+
+}
+
+.topbar {
+
+    background-color: #f5f5f5;
+    border-bottom   : 1px solid #efefef;
+}
+
+.topbar li {
+    float: left;
+}
+
+.topbar a {
+    display     : block;
+    font        : 12px/35px "微软雅黑";
+    color       : #5f5f5f;
+    margin-right: 35px;
+
+}
+
+.topbar ul .color {
+    color: #f06e18;
+}
+
+.arrbo {
+    position: relative;
+}
+
+.arrbo::before,
+.arrbo::after {
+    content         : "";
+    height          : 0;
+    width           : 0;
+    position        : absolute;
+    left            : 5px;
+    top             : 8px;
+    border          : 5px solid transparent;
+    border-top-color: #dbdbdb;
+}
+
+.arrbo::after {
+    border-top-color: #f5f5f5;
+    top             : 7px;
+}
+
+em {
+    float       : left;
+    display     : block;
+    height      : 14px;
+    width       : 14px;
+    margin-top  : 9px;
+    margin-right: 9px;
+
+
+}
+
+en {
+    background-image: url(/images/);
+}
+
+/*header*/
+.header .logo {
+    padding: 35px 0 34px;
+
+}
+
+.header form {
+    margin-left: 155px;
+    margin-top : 30px;
+}
+
+
+.header .search input {
+    height      : 36px;
+    width       : 390px;
+    padding-left: 28px;
+    border      : 2px solid #e6640e;
+    border-right: none;
+}
+
+.yanse {
+    color: ed7016;
+}
+
+.header .search input[type=submit] {
+    width           : 122px;
+    height          : 40px;
+    background-color: #e6640e;
+    font            : 16px/40px "微软雅黑";
+    color           : #fefff3;
+    padding-right   : 22px;
+}
+
+.header form .keywo a {
+    padding-right: 9px;
+    border-right : 1px solid #a0a0a0;
+    padding-left : 11px;
+    font         : 12px/18px "微软雅黑";
+    color        : #000000;
+}
+
+.keywo .haieryanse {
+    color: #e26c22;
+}
+
+.header form .keywo {
+    margin-left: -11px;
+    line-height: 9px;
+}
+
+
+
+
+.nav {
+    margin-left: 184px;
+}
+
+.nav li {
+    float      : left;
+    margin-left: 29px;
+}
+
+.nav li a {
+    display: block;
+    font   : bold 15px/38px "微软雅黑";
+    color  : #3d3d3d;
+    margin : 0 auto;
+}
+
+/* 垂直导航*/
+.navbar .inner {
+    position: relative;
+}
+
+.navbar .menu {
+    width   : 190px;
+    position: absolute;
+    top     : 0;
+    left    : 0;
+}
+
+.navbar .menu h3 {
+    background  : #f26b11;
+    padding-left: 9px;
+    font        : bold 14px/38px "微软雅黑";
+    color       : #fefff3;
+}
+
+.navbar .menuli .left {
+    padding-top: 2px;
+    position   : absolute;
+    left       : 0;
+    top        : 38px;
+    width      : 100%;
+    background : #262221;
+    z-index    :10;
+    overflow-x: auto;
+    height: 482px;
+}
+
+.navbar .menuli .left li {
+    padding-left: 8px;
+    overflow    : hidden;
+    font        : 14px/32px "微软雅黑";
+    color       : #6e6a69;
+    float: left;
+}
+
+.navbar .menuli .left li a {
+    float: left;
+    color: #f9f5e9;
+}
+
+.navbar .menuli .left li span {
+    float  : left;
+    padding: 0 8px 0 5px;
+}
+
+
+
+.footer {
+    background-color: #333333;
+}
+
+.footer .inner dl {
+    float: left;
+    width: 180px;
+}
+
+.footer .inner {
+    padding: 17px 0 25px;
+}
+
+.footer .first {
+    margin-left: 170px;
+}
+
+.footer .inner dt {
+    font         : 18px "微软雅黑";
+    color        : #919191;
+    /* text-align: center; */
+}
+
+.footer .inner dd {
+    font         : 15px "微软雅黑";
+    margin-top   : 9px;
+    /* text-align: center; */
+
+}
+
+.footer .inner a {
+    color: #a9a9a9;
+}
+
+.footer .inner dl .first {
+    margin-left: 185px;
+}
+
+.copy {
+    border-top: 2px solid #3e3e3e;
+}
+
+.copy {
+    text-align: center;
+    font      : 12px "微软雅黑";
+    color     : #6b6b6b;
+}

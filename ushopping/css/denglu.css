@@ -1,0 +1,167 @@
+@charset "utf-8";
+.header .huanying p{
+font: 24px/56px "微软雅黑";
+color: #666666;
+padding-top: 30px;
+
+margin-bottom: 22px;
+}
+.wrap{   
+    background: #ff6b6d;
+}
+.wrap .box{ 
+    background: #ffffff;
+    width: 350px;
+    height: 378px;
+}
+.wrap .box .denglu01{   
+    font: 18px/41px "微软雅黑";
+    padding-left: 35px;
+   padding-top: 14px;
+}
+.wrap .img99{   
+    width: 34px;
+    height: 34px;
+    border: 1px solid #f36b11;
+    margin-left: 35px;
+    margin-top: 13px;
+}
+   .wrap ul .xiaochangtiao input{   
+       width: 243px;
+       height: 34px;
+       border: 1px solid #f36b11;
+       margin-top: 13px;
+    
+
+   }
+   .wrap .img98{   
+    width: 34px;
+    height: 34px;
+    border: 1px solid #d9d9d9;
+    margin-left: 35px;
+    margin-top: 13px;
+}
+.wrap ul .xiaochangtiao1 input{   
+    width: 243px;
+    height: 34px;
+    border: 1px solid #d9d9d9;
+    margin-top: 13px;
+}
+.wrap ul .xiaochangtiao02 input{   
+    width: 206px;
+    height: 34px;
+    border: 1px solid #d9d9d9;
+    margin-top: 13px;
+    margin-left: 35px;
+}
+.wrap ul .xiaochangtiao02 .denglu07{    
+    margin-top: 11px;
+    margin-right: 31px;
+}
+.wrap ul .denglu06{   
+    width: 279px;
+    height: 40px;
+    background: #f36b11;
+    border: 1px solid #f36b11;
+    text-align: center;
+    margin-left: 36px;
+    margin-top: 24px;
+}
+.wrap ul .denglu06 a{   
+    font: 18px/40px "微软雅黑";
+    color: #ffffff;
+    
+}
+.wrap .box ul .zuixiaceng .inp{ 
+    margin-left: 36px;
+    margin-top: 24px;
+}
+.wrap .box ul .zuixiaceng .denglu11{    
+    margin-left: 8px;
+    margin-top: 22px;
+    font: 12px "宋体";
+    color: #666666;
+}
+.wrap .box ul .zuixiaceng .mima1{   
+   font: 12px "宋体";
+    margin-top: 22px;
+    color: #666666;
+    margin-right: 28px;
+}
+.wrap .box ul .hengxian{ 
+    margin-top: 31px;  
+    border-top: 1px solid  #f36b11;
+    width: 350px;
+}
+
+.wrap .box .hengxian10 .hengxian .koukou .one{  
+    height: 4px;
+    width: 4px;
+    margin-top: 14px;
+    margin-left: 30px;
+    background: #2badec;
+    border: 1px solid #2badec;
+    display: block;
+    border-radius: 3px;
+}
+.wrap .box .hengxian10 .hengxian .qq{ 
+    font: 12px/32px "Arial";
+    color: #666666;
+    margin-left: 7px;
+}
+.wrap .box .hengxian10 .hengxian .ww{ 
+    font: 12px/32px "Arial";
+    color: #666666;
+    margin-left: 7px;
+}
+.wrap .box .hengxian10 .hengxian .xx{ 
+    font: 12px/32px "Arial";
+    color: #666666;
+    margin-left: 7px;
+}
+.wrap .box .hengxian10 .hengxian .wiebo .wto{  
+    height: 4px;
+    width: 4px;
+    margin-top: 14px;
+    margin-left: 30px;
+    background: #e52425;
+    border: 1px solid #e52425;
+    display: block;
+    border-radius: 3px;
+}
+.wrap .box .hengxian10 .hengxian .weixin .san{   
+    height: 4px;
+    width: 4px;
+    margin-top: 14px;
+    margin-left: 30px;
+    background: #26d044;
+    border: 1px solid #26d044;
+    display: block;
+    border-radius: 3px;
+}
+.wrap .box .hengxian10 .hengxian .zhuce8 .lili1{
+        font: 14px/32px "宋体";
+        color: #f36b11;
+        margin-right: 30px;  
+}
+.wrap2 p{    
+    text-align: center;
+}
+.wrap .box{  
+    margin-top: 34px;
+}
+.wrap2{
+    margin-top: 41px;
+}
+.wrap2 p{
+    font: 12px/26px "Arial";
+    color: #636363;
+}
+
+.header .huanying p .shu{
+    border-left: 1px solid #e9e9e9;
+    height: 50px;
+    width: 1px;
+    margin-right: 9px;
+    margin-left: 25px;
+}

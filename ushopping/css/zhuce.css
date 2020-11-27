@@ -1,0 +1,168 @@
+@charset "utf-8";
+
+.wrap{  
+    margin-top: 13px;
+    background-color: #f6f6f6;
+    width: 1190px;
+    height: 500px;
+}
+.header .huanying{
+    padding-left: 25px;
+}
+
+.header .huanying p{
+    font: 24px/56px "微软雅黑";
+    color: #666666;
+    padding-top: 30px;
+    
+    margin-bottom: 22px;
+    }
+.header .logo{ 
+    padding: 35px 0 34px;
+    
+   
+}
+.inner .box ul .denglu01{
+    padding-top: 15px;
+    font: 24px/57px "微软雅黑";
+    color: #333333;
+    text-align: center;
+    margin: 0 auto;
+    left: 50%;
+    right: 50%;
+}
+.wrap .box ul .xiaochangtiao form .qingshuru{   
+    font: 12px/32px "宋体";
+    color: #f36b11;
+    margin-left: -37px;
+   margin-top: 10px;
+    
+}
+.wrap .box ul .xiaochangtiao1 form .qingshuru{   
+    font: 12px/32px "宋体";
+    color: #f36b11;
+    margin-left: 185px;
+   margin-top: 10px;
+    
+}
+.wrap .box ul .xiaochangtiao02 .denglu07{   
+    margin-top: -56px;
+}
+.wrap .box ul .xiaochangtiao02 .yanzhengma{ 
+    font: 12px "宋体";
+    color: #f36b11;
+    margin-left: 183px;
+   margin-top: 11px;
+    
+}
+.wrap .box ul .yiyou p{    
+    font: 12px "宋体";
+    margin-top: 35px;
+    text-align: center;
+}
+.wrap .box ul .yiyou p a{    
+    color: #f36b11;
+}
+.wrap .box{ 
+    background: #ffffff;
+    width: 748px;
+    height: 479px;
+    margin: 0 auto;
+    border-top: 2px solid #f36b11;
+}
+
+.wrap .box .img99{   
+    width: 34px;
+    height: 34px;
+    border: 1px solid #f36b11;
+    margin-left: 183px;
+    margin-top: 13px;
+}
+   .wrap ul .xiaochangtiao input{   
+       width: 379px;
+       height: 34px;
+       border: 1px solid #f36b11;
+       margin-top: 13px;
+   
+    
+
+}
+   .wrap .img98 img{   
+    width: 34px;
+    height: 34px;
+    border: 1px solid #d9d9d9;
+   
+    margin-top: -78px;
+    margin-left: 185px;
+   
+}
+.wrap ul .xiaochangtiao1 input{   
+    width: 379px;
+    height: 34px;
+    border: 1px solid #d9d9d9;
+    margin-top: 6px;
+    margin-left: 221px;
+    
+}
+.wrap .ul .xiaochangtiao02 img{ 
+    border: 1px solid red;
+}
+.wrap ul .xiaochangtiao02 input{   
+    width: 208px;
+    height: 34px;
+    border: 1px solid #d9d9d9;
+    margin-top: 12px;
+    margin-left: 183px;
+}
+.wrap ul .xiaochangtiao02 .denglu07 img{    
+    margin-top: -5px;
+    margin-right:283px;
+}
+.wrap ul .denglu06{   
+    width: 374px;
+    height: 40px;
+    background: #f36b11;
+    border: 1px solid #f36b11;
+    text-align: center;
+    margin-left: 183px;
+    margin-top: 32px;
+}
+.wrap ul .denglu06 a{   
+    font: 18px/40px "微软雅黑";
+    color: #ffffff;
+    
+}
+.wrap2{
+    margin-top: 41px;
+    text-align: center;
+    font: 12px/23px "Arial";
+    margin-bottom: 41px;
+}
+.header .huanying p span{
+    border-left: 1px solid #e9e9e9;
+    height: 49px;
+    margin-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
